@@ -1,0 +1,2302 @@
+[
+  {
+    "article_id": "ba9801e8-3bdb-5e21-86dc-efbe142ba56c",
+    "url": "https://theverge.com/apple-news-intelligence/sample-000",
+    "headline": "Apple demand rises as analysts track Apple's next launch window",
+    "summary": "The Verge reports that Apple is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Verge",
+    "author": "Avery Stone",
+    "published_at": "2026-05-12T17:53:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 0
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "ecf31a51-00ef-5ebd-ad79-8753a3bf552d",
+    "url": "https://bloomberg.com/apple-news-intelligence/sample-001",
+    "headline": "Apple suppliers prepare for iPhone production shift",
+    "summary": "Bloomberg Technology reports that iPhone is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Bloomberg Technology",
+    "author": "Priya Raman",
+    "published_at": "2026-05-12T04:43:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 1
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "d5dfab86-ff95-5272-b78e-b2ed37ae7d9f",
+    "url": "https://reuters.com/apple-news-intelligence/sample-002",
+    "headline": "Developers react to Apple's latest iPhone 17 roadmap",
+    "summary": "Reuters Tech reports that iPhone 17 is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone 17 story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Reuters Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-14T22:52:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 2
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "ff0d479e-b85d-597e-8df2-e321c179604a",
+    "url": "https://cnbc.com/apple-news-intelligence/sample-003",
+    "headline": "Tim Cook highlights MacBook strategy during investor briefing",
+    "summary": "CNBC Tech reports that MacBook is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this MacBook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNBC Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T12:13:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 3
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "6ab64ba3-3559-56df-bacf-5c3115ed9eac",
+    "url": "https://macrumors.com/apple-news-intelligence/sample-004",
+    "headline": "Regulators examine Apple policy changes around iPad",
+    "summary": "MacRumors reports that iPad is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPad story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "MacRumors",
+    "author": "Avery Stone",
+    "published_at": "2026-05-12T23:33:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 4
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "8ebaa156-bd59-5bc2-ac50-139696bcf5cc",
+    "url": "https://9to5mac.com/apple-news-intelligence/sample-005",
+    "headline": "Apple Intelligence update sparks new debate about Apple Watch",
+    "summary": "9to5Mac reports that Apple Watch is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Watch story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "9to5Mac",
+    "author": "Priya Raman",
+    "published_at": "2026-05-15T23:55:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 5
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "1994674c-452e-5feb-bedd-237b21cf1597",
+    "url": "https://techcrunch.com/apple-news-intelligence/sample-006",
+    "headline": "Vision Pro rumors accelerate ahead of Apple's fall event",
+    "summary": "TechCrunch reports that Vision Pro is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Vision Pro story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "TechCrunch",
+    "author": "Avery Stone",
+    "published_at": "2026-05-14T21:28:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 6
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "10d0aee7-2c9a-52af-97aa-4875f8826782",
+    "url": "https://engadget.com/apple-news-intelligence/sample-007",
+    "headline": "Apple earnings preview points to stronger iOS momentum",
+    "summary": "Engadget reports that iOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Engadget",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-13T03:48:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 7
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "c232b273-bff2-5e17-ac42-21e4f7322012",
+    "url": "https://ft.com/apple-news-intelligence/sample-008",
+    "headline": "New supply chain report links Apple chip plans to macOS",
+    "summary": "Financial Times Tech reports that macOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this macOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Financial Times Tech",
+    "author": "Noah Park",
+    "published_at": "2026-05-14T22:32:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 8
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "b8fd67c2-8e75-55d5-a6b8-0044ce104b58",
+    "url": "https://asia.nikkei.com/apple-news-intelligence/sample-009",
+    "headline": "Customers compare App Store upgrades after early reviews",
+    "summary": "Nikkei Asia Tech reports that App Store is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this App Store story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Nikkei Asia Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-11T19:05:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Japan",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 9
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "9809d086-cf84-53d2-be48-e7f1ca22320a",
+    "url": "https://theinformation.com/apple-news-intelligence/sample-010",
+    "headline": "Tim Cook demand rises as analysts track Apple's next launch window",
+    "summary": "The Information reports that Tim Cook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Tim Cook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Information",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-12T01:09:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 10
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "76691a50-769d-553a-96c4-3256596ceba8",
+    "url": "https://wsj.com/apple-news-intelligence/sample-011",
+    "headline": "Apple suppliers prepare for Apple Intelligence production shift",
+    "summary": "Wall Street Journal Tech reports that Apple Intelligence is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Intelligence story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wall Street Journal Tech",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-12T09:33:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 11
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "34e48013-5a2e-5da5-9b87-6fc46d73ff81",
+    "url": "https://wired.com/apple-news-intelligence/sample-012",
+    "headline": "Developers react to Apple's latest Apple chip roadmap",
+    "summary": "Wired reports that Apple chip is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wired",
+    "author": "Priya Raman",
+    "published_at": "2026-05-14T15:51:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 12
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "1350a516-86f5-5ba9-812d-5d379198ac1b",
+    "url": "https://arstechnica.com/apple-news-intelligence/sample-013",
+    "headline": "Tim Cook highlights M-series chip strategy during investor briefing",
+    "summary": "Ars Technica reports that M-series chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this M-series chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Ars Technica",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T01:39:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 13
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "3abc590c-54ff-57c4-b257-abc40fbc7322",
+    "url": "https://zdnet.com/apple-news-intelligence/sample-014",
+    "headline": "Regulators examine Apple policy changes around Apple earnings",
+    "summary": "ZDNet reports that Apple earnings is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple earnings story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "ZDNet",
+    "author": "Maya Chen",
+    "published_at": "2026-05-15T15:36:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 14
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "8ecfe102-7cde-58fa-ad10-ca83244f9b42",
+    "url": "https://cnet.com/apple-news-intelligence/sample-015",
+    "headline": "Apple Intelligence update sparks new debate about Apple supply chain",
+    "summary": "CNET reports that Apple supply chain is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple supply chain story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNET",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-14T05:06:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 15
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "02bf2cc7-061a-5463-8c33-97f89ec6ee5d",
+    "url": "https://theguardian.com/apple-news-intelligence/sample-016",
+    "headline": "Apple rumors accelerate ahead of Apple's fall event",
+    "summary": "The Guardian Tech reports that Apple is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Guardian Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-12T21:44:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 16
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "35aa458e-6757-56ed-b7fd-e81848471bba",
+    "url": "https://indiatoday.in/apple-news-intelligence/sample-017",
+    "headline": "Apple earnings preview points to stronger iPhone momentum",
+    "summary": "India Today Tech reports that iPhone is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "India Today Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T05:31:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "India",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 17
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "88d967f2-f848-58ca-9475-8299448c0c8d",
+    "url": "https://scmp.com/apple-news-intelligence/sample-018",
+    "headline": "New supply chain report links Apple chip plans to iPhone 17",
+    "summary": "South China Morning Post Tech reports that iPhone 17 is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone 17 story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "South China Morning Post Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-11T04:36:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "China",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 18
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "f99b3a71-64df-593e-a033-24a93647aa7d",
+    "url": "https://heise.de/apple-news-intelligence/sample-019",
+    "headline": "Customers compare MacBook upgrades after early reviews",
+    "summary": "Heise Online reports that MacBook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this MacBook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Heise Online",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-13T04:42:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Germany",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 19
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "1a040953-3689-5666-8406-855c19521446",
+    "url": "https://theverge.com/apple-news-intelligence/sample-020",
+    "headline": "iPad demand rises as analysts track Apple's next launch window",
+    "summary": "The Verge reports that iPad is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPad story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Verge",
+    "author": "Maya Chen",
+    "published_at": "2026-05-13T01:48:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 20
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "a4937e07-5c1a-5346-bc9a-50ae79236e5d",
+    "url": "https://bloomberg.com/apple-news-intelligence/sample-021",
+    "headline": "Apple suppliers prepare for Apple Watch production shift",
+    "summary": "Bloomberg Technology reports that Apple Watch is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Watch story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Bloomberg Technology",
+    "author": "Priya Raman",
+    "published_at": "2026-05-15T21:18:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 21
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "317297c6-e5cf-5a73-8cb8-780d7a99961d",
+    "url": "https://reuters.com/apple-news-intelligence/sample-022",
+    "headline": "Developers react to Apple's latest Vision Pro roadmap",
+    "summary": "Reuters Tech reports that Vision Pro is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Vision Pro story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Reuters Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T00:42:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 22
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "bbce71e4-f553-54a4-a8ef-e9265d47022c",
+    "url": "https://cnbc.com/apple-news-intelligence/sample-023",
+    "headline": "Tim Cook highlights iOS strategy during investor briefing",
+    "summary": "CNBC Tech reports that iOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNBC Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-11T13:46:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 23
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "b0cfb40f-5870-5566-a847-84d955eaf332",
+    "url": "https://macrumors.com/apple-news-intelligence/sample-024",
+    "headline": "Regulators examine Apple policy changes around macOS",
+    "summary": "MacRumors reports that macOS is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this macOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "MacRumors",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-14T02:43:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 24
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "3093e891-db28-5bf1-9ade-600496e60764",
+    "url": "https://9to5mac.com/apple-news-intelligence/sample-025",
+    "headline": "Apple Intelligence update sparks new debate about App Store",
+    "summary": "9to5Mac reports that App Store is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this App Store story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "9to5Mac",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-12T17:07:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 25
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "296f63fc-c5c9-5970-9799-cafdd633cbf9",
+    "url": "https://techcrunch.com/apple-news-intelligence/sample-026",
+    "headline": "Tim Cook rumors accelerate ahead of Apple's fall event",
+    "summary": "TechCrunch reports that Tim Cook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Tim Cook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "TechCrunch",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-15T06:37:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 26
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "7cd37dbe-1e1d-5ebb-bfff-1e9e9fb746fd",
+    "url": "https://engadget.com/apple-news-intelligence/sample-027",
+    "headline": "Apple earnings preview points to stronger Apple Intelligence momentum",
+    "summary": "Engadget reports that Apple Intelligence is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Intelligence story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Engadget",
+    "author": "Noah Park",
+    "published_at": "2026-05-15T00:18:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 27
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "1b6dddb5-889d-52cb-a96d-9d732a6b18eb",
+    "url": "https://ft.com/apple-news-intelligence/sample-028",
+    "headline": "New supply chain report links Apple chip plans to Apple chip",
+    "summary": "Financial Times Tech reports that Apple chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Financial Times Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T09:17:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 28
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "9edec418-e8a7-583e-8118-dada333da4bb",
+    "url": "https://asia.nikkei.com/apple-news-intelligence/sample-029",
+    "headline": "Customers compare M-series chip upgrades after early reviews",
+    "summary": "Nikkei Asia Tech reports that M-series chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this M-series chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Nikkei Asia Tech",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-12T21:20:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Japan",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 29
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "156aedd7-6ae8-5c0d-a5a6-2880be03799e",
+    "url": "https://theinformation.com/apple-news-intelligence/sample-030",
+    "headline": "Apple earnings demand rises as analysts track Apple's next launch window",
+    "summary": "The Information reports that Apple earnings is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple earnings story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Information",
+    "author": "Priya Raman",
+    "published_at": "2026-05-13T06:14:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 30
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "aaf0dab2-d38d-5155-aac0-e5a98c1a70e1",
+    "url": "https://wsj.com/apple-news-intelligence/sample-031",
+    "headline": "Apple suppliers prepare for Apple supply chain production shift",
+    "summary": "Wall Street Journal Tech reports that Apple supply chain is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple supply chain story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wall Street Journal Tech",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-15T06:31:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 31
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "ff069296-2304-52c2-a059-831f9bb24fb4",
+    "url": "https://wired.com/apple-news-intelligence/sample-032",
+    "headline": "Developers react to Apple's latest Apple roadmap",
+    "summary": "Wired reports that Apple is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wired",
+    "author": "Priya Raman",
+    "published_at": "2026-05-14T16:20:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 32
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "51d07e69-0c65-5f14-9220-b4927abb05e0",
+    "url": "https://arstechnica.com/apple-news-intelligence/sample-033",
+    "headline": "Tim Cook highlights iPhone strategy during investor briefing",
+    "summary": "Ars Technica reports that iPhone is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Ars Technica",
+    "author": "Avery Stone",
+    "published_at": "2026-05-12T11:40:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 33
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "cc9dbdfa-bb60-5220-b643-d772479b43d7",
+    "url": "https://zdnet.com/apple-news-intelligence/sample-034",
+    "headline": "Regulators examine Apple policy changes around iPhone 17",
+    "summary": "ZDNet reports that iPhone 17 is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone 17 story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "ZDNet",
+    "author": "Avery Stone",
+    "published_at": "2026-05-14T21:08:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 34
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "f3c2b5f3-75ea-503c-a2d0-ab689dbffa15",
+    "url": "https://cnet.com/apple-news-intelligence/sample-035",
+    "headline": "Apple Intelligence update sparks new debate about MacBook",
+    "summary": "CNET reports that MacBook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this MacBook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNET",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-11T19:40:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 35
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "06a92019-69b0-5ff4-b39f-96843de6ddd0",
+    "url": "https://theguardian.com/apple-news-intelligence/sample-036",
+    "headline": "iPad rumors accelerate ahead of Apple's fall event",
+    "summary": "The Guardian Tech reports that iPad is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPad story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Guardian Tech",
+    "author": "Priya Raman",
+    "published_at": "2026-05-14T16:56:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 36
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "61f91b73-faa8-5574-a5bb-7a225fa1f1b2",
+    "url": "https://indiatoday.in/apple-news-intelligence/sample-037",
+    "headline": "Apple earnings preview points to stronger Apple Watch momentum",
+    "summary": "India Today Tech reports that Apple Watch is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Watch story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "India Today Tech",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-11T06:24:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "India",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 37
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "7b946e6c-309c-504f-889e-76d4e81cdfc4",
+    "url": "https://scmp.com/apple-news-intelligence/sample-038",
+    "headline": "New supply chain report links Apple chip plans to Vision Pro",
+    "summary": "South China Morning Post Tech reports that Vision Pro is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Vision Pro story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "South China Morning Post Tech",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-14T23:19:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "China",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 38
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "478b62a5-5c9e-5225-a02d-74c123217622",
+    "url": "https://heise.de/apple-news-intelligence/sample-039",
+    "headline": "Customers compare iOS upgrades after early reviews",
+    "summary": "Heise Online reports that iOS is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Heise Online",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-14T00:19:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Germany",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 39
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "5ee3c6cf-07f1-5989-9854-b6b61e3e9109",
+    "url": "https://theverge.com/apple-news-intelligence/sample-040",
+    "headline": "macOS demand rises as analysts track Apple's next launch window",
+    "summary": "The Verge reports that macOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this macOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Verge",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-15T08:44:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 40
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "7f7818b7-b866-50a1-bab4-f3a6d0d1172e",
+    "url": "https://bloomberg.com/apple-news-intelligence/sample-041",
+    "headline": "Apple suppliers prepare for App Store production shift",
+    "summary": "Bloomberg Technology reports that App Store is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this App Store story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Bloomberg Technology",
+    "author": "Noah Park",
+    "published_at": "2026-05-14T19:13:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 41
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "cfaf0414-b4ae-5478-970d-10f8d75156a6",
+    "url": "https://reuters.com/apple-news-intelligence/sample-042",
+    "headline": "Developers react to Apple's latest Tim Cook roadmap",
+    "summary": "Reuters Tech reports that Tim Cook is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Tim Cook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Reuters Tech",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-12T03:23:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 42
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "f9019a4f-fb99-5da2-a467-aa64e93084f6",
+    "url": "https://cnbc.com/apple-news-intelligence/sample-043",
+    "headline": "Tim Cook highlights Apple Intelligence strategy during investor briefing",
+    "summary": "CNBC Tech reports that Apple Intelligence is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Intelligence story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNBC Tech",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-11T08:23:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 43
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "e52eeb9c-cc18-5746-a854-6b1b84fd3885",
+    "url": "https://macrumors.com/apple-news-intelligence/sample-044",
+    "headline": "Regulators examine Apple policy changes around Apple chip",
+    "summary": "MacRumors reports that Apple chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "MacRumors",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-14T04:46:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 44
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "4bbd9a4d-ea20-5493-919b-33c616b0d24e",
+    "url": "https://9to5mac.com/apple-news-intelligence/sample-045",
+    "headline": "Apple Intelligence update sparks new debate about M-series chip",
+    "summary": "9to5Mac reports that M-series chip is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this M-series chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "9to5Mac",
+    "author": "Maya Chen",
+    "published_at": "2026-05-13T09:29:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 45
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "c52e80d9-f318-5216-9ee5-536e0dabba91",
+    "url": "https://techcrunch.com/apple-news-intelligence/sample-046",
+    "headline": "Apple earnings rumors accelerate ahead of Apple's fall event",
+    "summary": "TechCrunch reports that Apple earnings is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple earnings story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "TechCrunch",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T02:57:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 46
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "24e91614-94ad-564e-ac62-1aaf098f8e49",
+    "url": "https://engadget.com/apple-news-intelligence/sample-047",
+    "headline": "Apple earnings preview points to stronger Apple supply chain momentum",
+    "summary": "Engadget reports that Apple supply chain is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple supply chain story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Engadget",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-15T07:20:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 47
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "104b35b7-1cf5-571a-a75f-9c3be7650038",
+    "url": "https://ft.com/apple-news-intelligence/sample-048",
+    "headline": "New supply chain report links Apple chip plans to Apple",
+    "summary": "Financial Times Tech reports that Apple is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Financial Times Tech",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-11T21:17:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 48
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "1df11e46-72c0-5142-a27c-be0d1c75d809",
+    "url": "https://asia.nikkei.com/apple-news-intelligence/sample-049",
+    "headline": "Customers compare iPhone upgrades after early reviews",
+    "summary": "Nikkei Asia Tech reports that iPhone is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Nikkei Asia Tech",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-12T22:56:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Japan",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 49
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "887511b8-a9b1-5c4b-9bd3-e07bc0dcb52a",
+    "url": "https://theinformation.com/apple-news-intelligence/sample-050",
+    "headline": "iPhone 17 demand rises as analysts track Apple's next launch window",
+    "summary": "The Information reports that iPhone 17 is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone 17 story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Information",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-14T02:22:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 50
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "06903e92-52a9-51a3-9941-63acf1f8648e",
+    "url": "https://wsj.com/apple-news-intelligence/sample-051",
+    "headline": "Apple suppliers prepare for MacBook production shift",
+    "summary": "Wall Street Journal Tech reports that MacBook is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this MacBook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wall Street Journal Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-13T07:44:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 51
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "2f5aeb0b-f3ee-5fd8-a0be-e44fad8d0754",
+    "url": "https://wired.com/apple-news-intelligence/sample-052",
+    "headline": "Developers react to Apple's latest iPad roadmap",
+    "summary": "Wired reports that iPad is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPad story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wired",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T11:14:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 52
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.913773Z"
+  },
+  {
+    "article_id": "d8110637-2416-5dc6-b234-fa38a8d076b0",
+    "url": "https://arstechnica.com/apple-news-intelligence/sample-053",
+    "headline": "Tim Cook highlights Apple Watch strategy during investor briefing",
+    "summary": "Ars Technica reports that Apple Watch is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Watch story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Ars Technica",
+    "author": "Noah Park",
+    "published_at": "2026-05-12T11:26:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 53
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "7b3f5ebf-9a84-5131-ac58-3f14b322f92f",
+    "url": "https://zdnet.com/apple-news-intelligence/sample-054",
+    "headline": "Regulators examine Apple policy changes around Vision Pro",
+    "summary": "ZDNet reports that Vision Pro is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Vision Pro story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "ZDNet",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-12T00:19:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 54
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "98892c64-7c72-5bf9-9251-9ac567e20aca",
+    "url": "https://cnet.com/apple-news-intelligence/sample-055",
+    "headline": "Apple Intelligence update sparks new debate about iOS",
+    "summary": "CNET reports that iOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNET",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-15T12:42:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 55
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "e4e20e42-37ab-5105-a79c-963ba150e795",
+    "url": "https://theguardian.com/apple-news-intelligence/sample-056",
+    "headline": "macOS rumors accelerate ahead of Apple's fall event",
+    "summary": "The Guardian Tech reports that macOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this macOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Guardian Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-15T06:31:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 56
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "48df2ca2-542b-5ccd-8afe-56107f3d94ba",
+    "url": "https://indiatoday.in/apple-news-intelligence/sample-057",
+    "headline": "Apple earnings preview points to stronger App Store momentum",
+    "summary": "India Today Tech reports that App Store is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this App Store story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "India Today Tech",
+    "author": "Noah Park",
+    "published_at": "2026-05-12T06:14:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "India",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 57
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "8ae5eeeb-6dbd-5674-b865-9deb322a196c",
+    "url": "https://scmp.com/apple-news-intelligence/sample-058",
+    "headline": "New supply chain report links Apple chip plans to Tim Cook",
+    "summary": "South China Morning Post Tech reports that Tim Cook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Tim Cook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "South China Morning Post Tech",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-13T10:12:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "China",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 58
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "8373275f-040a-53aa-92ba-c32a178ddd0b",
+    "url": "https://heise.de/apple-news-intelligence/sample-059",
+    "headline": "Customers compare Apple Intelligence upgrades after early reviews",
+    "summary": "Heise Online reports that Apple Intelligence is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Intelligence story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Heise Online",
+    "author": "Noah Park",
+    "published_at": "2026-05-13T10:54:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Germany",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 59
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "1f12f2ea-dc7e-57ba-b17d-a23e0132925b",
+    "url": "https://theverge.com/apple-news-intelligence/sample-060",
+    "headline": "Apple chip demand rises as analysts track Apple's next launch window",
+    "summary": "The Verge reports that Apple chip is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Verge",
+    "author": "Priya Raman",
+    "published_at": "2026-05-11T15:20:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 60
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "05521a31-3932-56dc-99d7-98644963c71e",
+    "url": "https://bloomberg.com/apple-news-intelligence/sample-061",
+    "headline": "Apple suppliers prepare for M-series chip production shift",
+    "summary": "Bloomberg Technology reports that M-series chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this M-series chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Bloomberg Technology",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-15T07:37:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 61
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "373d371b-ab74-5b09-97b7-fcdc61bd8074",
+    "url": "https://reuters.com/apple-news-intelligence/sample-062",
+    "headline": "Developers react to Apple's latest Apple earnings roadmap",
+    "summary": "Reuters Tech reports that Apple earnings is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple earnings story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Reuters Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-13T05:11:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 62
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "c03cf53b-a32b-5ed3-a887-b1583a38a9c1",
+    "url": "https://cnbc.com/apple-news-intelligence/sample-063",
+    "headline": "Tim Cook highlights Apple supply chain strategy during investor briefing",
+    "summary": "CNBC Tech reports that Apple supply chain is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple supply chain story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNBC Tech",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-12T22:40:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 63
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "3cae6d70-4125-5ff9-bf25-6ec6897322f3",
+    "url": "https://macrumors.com/apple-news-intelligence/sample-064",
+    "headline": "Regulators examine Apple policy changes around Apple",
+    "summary": "MacRumors reports that Apple is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "MacRumors",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-16T00:53:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 64
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "189a63cf-8768-5de7-bd9d-de5460bd1f78",
+    "url": "https://9to5mac.com/apple-news-intelligence/sample-065",
+    "headline": "Apple Intelligence update sparks new debate about iPhone",
+    "summary": "9to5Mac reports that iPhone is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "9to5Mac",
+    "author": "Noah Park",
+    "published_at": "2026-05-11T10:07:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 65
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "7b7dc034-748c-5285-9257-a2f243aea13a",
+    "url": "https://techcrunch.com/apple-news-intelligence/sample-066",
+    "headline": "iPhone 17 rumors accelerate ahead of Apple's fall event",
+    "summary": "TechCrunch reports that iPhone 17 is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone 17 story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "TechCrunch",
+    "author": "Priya Raman",
+    "published_at": "2026-05-14T20:57:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 66
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "4bc24c38-939b-5a4f-a919-068af8a48736",
+    "url": "https://engadget.com/apple-news-intelligence/sample-067",
+    "headline": "Apple earnings preview points to stronger MacBook momentum",
+    "summary": "Engadget reports that MacBook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this MacBook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Engadget",
+    "author": "Maya Chen",
+    "published_at": "2026-05-11T10:24:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 67
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "9d26a18d-a8d6-57c4-83c6-b6f9bf057de4",
+    "url": "https://ft.com/apple-news-intelligence/sample-068",
+    "headline": "New supply chain report links Apple chip plans to iPad",
+    "summary": "Financial Times Tech reports that iPad is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPad story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Financial Times Tech",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-15T16:14:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 68
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "d45610e7-77b1-577b-aacf-d0f0c88023d0",
+    "url": "https://asia.nikkei.com/apple-news-intelligence/sample-069",
+    "headline": "Customers compare Apple Watch upgrades after early reviews",
+    "summary": "Nikkei Asia Tech reports that Apple Watch is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Watch story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Nikkei Asia Tech",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-11T18:56:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Japan",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 69
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "8eeac433-3add-5094-9c8f-a21926690c6f",
+    "url": "https://theinformation.com/apple-news-intelligence/sample-070",
+    "headline": "Vision Pro demand rises as analysts track Apple's next launch window",
+    "summary": "The Information reports that Vision Pro is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Vision Pro story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Information",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-15T10:18:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 70
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "f00cd32e-4562-5dbe-b8f8-751ff2ce702b",
+    "url": "https://wsj.com/apple-news-intelligence/sample-071",
+    "headline": "Apple suppliers prepare for iOS production shift",
+    "summary": "Wall Street Journal Tech reports that iOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wall Street Journal Tech",
+    "author": "Noah Park",
+    "published_at": "2026-05-13T04:50:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 71
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "70c95163-d5c5-5233-9d95-38bcbddf0e46",
+    "url": "https://wired.com/apple-news-intelligence/sample-072",
+    "headline": "Developers react to Apple's latest macOS roadmap",
+    "summary": "Wired reports that macOS is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this macOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wired",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-13T07:05:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 72
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "f25791f0-d42b-5c29-baf2-971fee578473",
+    "url": "https://arstechnica.com/apple-news-intelligence/sample-073",
+    "headline": "Tim Cook highlights App Store strategy during investor briefing",
+    "summary": "Ars Technica reports that App Store is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this App Store story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Ars Technica",
+    "author": "Priya Raman",
+    "published_at": "2026-05-14T23:26:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 73
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "3e328cb7-b367-5017-97f8-f8193fe4e259",
+    "url": "https://zdnet.com/apple-news-intelligence/sample-074",
+    "headline": "Regulators examine Apple policy changes around Tim Cook",
+    "summary": "ZDNet reports that Tim Cook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Tim Cook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "ZDNet",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-12T07:41:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 74
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "d473f450-466c-57b9-b4c9-7585b1ee5382",
+    "url": "https://cnet.com/apple-news-intelligence/sample-075",
+    "headline": "Apple Intelligence update sparks new debate about Apple Intelligence",
+    "summary": "CNET reports that Apple Intelligence is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Intelligence story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNET",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-12T13:19:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 75
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "e06dd3fd-941f-5a7d-a71c-787f086dc700",
+    "url": "https://theguardian.com/apple-news-intelligence/sample-076",
+    "headline": "Apple chip rumors accelerate ahead of Apple's fall event",
+    "summary": "The Guardian Tech reports that Apple chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Guardian Tech",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-13T18:27:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 76
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "7519443c-941b-57ed-be37-c4c108caeb0c",
+    "url": "https://indiatoday.in/apple-news-intelligence/sample-077",
+    "headline": "Apple earnings preview points to stronger M-series chip momentum",
+    "summary": "India Today Tech reports that M-series chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this M-series chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "India Today Tech",
+    "author": "Priya Raman",
+    "published_at": "2026-05-15T11:45:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "India",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 77
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "fded4b09-7613-54a3-9b0b-3662808c84f5",
+    "url": "https://scmp.com/apple-news-intelligence/sample-078",
+    "headline": "New supply chain report links Apple chip plans to Apple earnings",
+    "summary": "South China Morning Post Tech reports that Apple earnings is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple earnings story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "South China Morning Post Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-15T18:39:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "China",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 78
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "918c6de8-b2f7-54c6-8358-9ffcec52f6a2",
+    "url": "https://heise.de/apple-news-intelligence/sample-079",
+    "headline": "Customers compare Apple supply chain upgrades after early reviews",
+    "summary": "Heise Online reports that Apple supply chain is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple supply chain story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Heise Online",
+    "author": "Priya Raman",
+    "published_at": "2026-05-12T23:25:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Germany",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 79
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "b6704794-0912-54b9-adb4-cf7f2fe94087",
+    "url": "https://theverge.com/apple-news-intelligence/sample-080",
+    "headline": "Apple demand rises as analysts track Apple's next launch window",
+    "summary": "The Verge reports that Apple is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Verge",
+    "author": "Avery Stone",
+    "published_at": "2026-05-12T23:46:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 80
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "4795a0b7-9708-5b80-8a69-2d2fd2823118",
+    "url": "https://bloomberg.com/apple-news-intelligence/sample-081",
+    "headline": "Apple suppliers prepare for iPhone production shift",
+    "summary": "Bloomberg Technology reports that iPhone is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Bloomberg Technology",
+    "author": "Avery Stone",
+    "published_at": "2026-05-15T17:15:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 81
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "23e82b9c-c877-514b-812d-0a5b2c103ab4",
+    "url": "https://reuters.com/apple-news-intelligence/sample-082",
+    "headline": "Developers react to Apple's latest iPhone 17 roadmap",
+    "summary": "Reuters Tech reports that iPhone 17 is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone 17 story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Reuters Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-14T21:56:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 82
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "5300c48a-1d26-5f2d-968a-d66abb1b08c3",
+    "url": "https://cnbc.com/apple-news-intelligence/sample-083",
+    "headline": "Tim Cook highlights MacBook strategy during investor briefing",
+    "summary": "CNBC Tech reports that MacBook is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this MacBook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNBC Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-11T12:39:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 83
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "629615b5-a9f3-5d7a-93a0-3b02c442d1b9",
+    "url": "https://macrumors.com/apple-news-intelligence/sample-084",
+    "headline": "Regulators examine Apple policy changes around iPad",
+    "summary": "MacRumors reports that iPad is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPad story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "MacRumors",
+    "author": "Noah Park",
+    "published_at": "2026-05-13T09:45:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 84
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "aeb896ae-ec06-54b4-aa84-f043a776601e",
+    "url": "https://9to5mac.com/apple-news-intelligence/sample-085",
+    "headline": "Apple Intelligence update sparks new debate about Apple Watch",
+    "summary": "9to5Mac reports that Apple Watch is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Watch story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "9to5Mac",
+    "author": "Priya Raman",
+    "published_at": "2026-05-12T13:29:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 85
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "0f07166c-eb12-57ab-becd-2c0cbea0cd70",
+    "url": "https://techcrunch.com/apple-news-intelligence/sample-086",
+    "headline": "Vision Pro rumors accelerate ahead of Apple's fall event",
+    "summary": "TechCrunch reports that Vision Pro is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Vision Pro story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "TechCrunch",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-13T05:52:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 86
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "0ce0f4b2-b357-53ad-b18f-4c666ecd2f0a",
+    "url": "https://engadget.com/apple-news-intelligence/sample-087",
+    "headline": "Apple earnings preview points to stronger iOS momentum",
+    "summary": "Engadget reports that iOS is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Engadget",
+    "author": "Sofia Patel",
+    "published_at": "2026-05-14T19:10:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 87
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "f9665603-f91c-5dc4-8698-3e7af9e2da2e",
+    "url": "https://ft.com/apple-news-intelligence/sample-088",
+    "headline": "New supply chain report links Apple chip plans to macOS",
+    "summary": "Financial Times Tech reports that macOS is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this macOS story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Financial Times Tech",
+    "author": "Priya Raman",
+    "published_at": "2026-05-11T19:34:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 88
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "d512b6be-949e-5ed3-9a01-4fa5271930cc",
+    "url": "https://asia.nikkei.com/apple-news-intelligence/sample-089",
+    "headline": "Customers compare App Store upgrades after early reviews",
+    "summary": "Nikkei Asia Tech reports that App Store is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this App Store story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Nikkei Asia Tech",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-15T14:54:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Japan",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 89
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "56215045-0459-5b29-92f1-dcc9b5663ea5",
+    "url": "https://theinformation.com/apple-news-intelligence/sample-090",
+    "headline": "Tim Cook demand rises as analysts track Apple's next launch window",
+    "summary": "The Information reports that Tim Cook is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Tim Cook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Information",
+    "author": "Marcus Reed",
+    "published_at": "2026-05-14T05:33:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 90
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "42772942-3a69-5522-a1bc-8fdd4ca38010",
+    "url": "https://wsj.com/apple-news-intelligence/sample-091",
+    "headline": "Apple suppliers prepare for Apple Intelligence production shift",
+    "summary": "Wall Street Journal Tech reports that Apple Intelligence is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple Intelligence story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wall Street Journal Tech",
+    "author": "Avery Stone",
+    "published_at": "2026-05-13T15:05:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 91
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "8ce0998b-e1b3-57ba-a527-524d16a6e1a6",
+    "url": "https://wired.com/apple-news-intelligence/sample-092",
+    "headline": "Developers react to Apple's latest Apple chip roadmap",
+    "summary": "Wired reports that Apple chip is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Wired",
+    "author": "Maya Chen",
+    "published_at": "2026-05-12T12:19:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 92
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "7ceaed0b-0379-5b21-bc19-8a6a0da114e1",
+    "url": "https://arstechnica.com/apple-news-intelligence/sample-093",
+    "headline": "Tim Cook highlights M-series chip strategy during investor briefing",
+    "summary": "Ars Technica reports that M-series chip is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this M-series chip story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Ars Technica",
+    "author": "Elena Rossi",
+    "published_at": "2026-05-15T19:35:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 93
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "cb1abdd2-9916-5010-8fd4-8cb7ed1a4a6f",
+    "url": "https://zdnet.com/apple-news-intelligence/sample-094",
+    "headline": "Regulators examine Apple policy changes around Apple earnings",
+    "summary": "ZDNet reports that Apple earnings is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple earnings story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "ZDNet",
+    "author": "Maya Chen",
+    "published_at": "2026-05-11T20:05:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 94
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "c093534c-8b3a-5f8e-ac2d-7d989f3559b9",
+    "url": "https://cnet.com/apple-news-intelligence/sample-095",
+    "headline": "Apple Intelligence update sparks new debate about Apple supply chain",
+    "summary": "CNET reports that Apple supply chain is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple supply chain story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "CNET",
+    "author": "Priya Raman",
+    "published_at": "2026-05-14T19:48:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United States",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 95
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "7eec83aa-7376-529c-9d4c-4d1b7fb520af",
+    "url": "https://theguardian.com/apple-news-intelligence/sample-096",
+    "headline": "Apple rumors accelerate ahead of Apple's fall event",
+    "summary": "The Guardian Tech reports that Apple is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this Apple story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "The Guardian Tech",
+    "author": "Jordan Ellis",
+    "published_at": "2026-05-13T06:32:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "United Kingdom",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 96
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "4eddc89e-5f5b-50a8-8e8d-0efc927d03c5",
+    "url": "https://indiatoday.in/apple-news-intelligence/sample-097",
+    "headline": "Apple earnings preview points to stronger iPhone momentum",
+    "summary": "India Today Tech reports that iPhone is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "India Today Tech",
+    "author": "Noah Park",
+    "published_at": "2026-05-13T20:49:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "India",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 97
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "f2738526-907a-53f0-ada5-1e52e9285f23",
+    "url": "https://scmp.com/apple-news-intelligence/sample-098",
+    "headline": "New supply chain report links Apple chip plans to iPhone 17",
+    "summary": "South China Morning Post Tech reports that iPhone 17 is shaping Apple coverage across markets. The story mentions strong growth and optimistic demand.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this iPhone 17 story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "South China Morning Post Tech",
+    "author": "Maya Chen",
+    "published_at": "2026-05-13T15:45:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "China",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 98
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "article_id": "fae50a61-09a7-55c0-abbb-efd13751aac3",
+    "url": "https://heise.de/apple-news-intelligence/sample-099",
+    "headline": "Customers compare MacBook upgrades after early reviews",
+    "summary": "Heise Online reports that MacBook is shaping Apple coverage across markets. The story mentions risk, delays, and regulatory concern.",
+    "body": "Apple, Tim Cook, and partners such as TSMC and Foxconn are connected to this MacBook story. Analysts are watching App Store, iOS, and Apple Intelligence signals.",
+    "publisher": "Heise Online",
+    "author": "Maya Chen",
+    "published_at": "2026-05-13T18:09:00Z",
+    "source_type": "sample",
+    "source_name": "sample-generator",
+    "country": "Germany",
+    "language": "en",
+    "image_url": null,
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 99
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  }
+]

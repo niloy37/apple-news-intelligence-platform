@@ -1,0 +1,26 @@
+version: 2
+
+sources:
+  - name: app
+    schema: public
+    tables:
+      - name: articles
+        columns:
+          - name: url
+            tests:
+              - not_null
+              - unique
+          - name: headline
+            tests:
+              - not_null
+      - name: social_posts
+        columns:
+          - name: post_id
+            tests:
+              - not_null
+              - unique
+      - name: trend_metrics
+        columns:
+          - name: trend_score
+            tests:
+              - not_null

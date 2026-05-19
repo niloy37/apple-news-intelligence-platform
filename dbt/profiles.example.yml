@@ -1,0 +1,12 @@
+apple_news_intelligence:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: apple_news
+      password: apple_news_password
+      port: 5432
+      dbname: apple_news_db
+      schema: public
+      threads: 4

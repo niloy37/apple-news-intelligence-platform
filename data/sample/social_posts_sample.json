@@ -1,0 +1,6302 @@
+[
+  {
+    "post_id": "sample-social-000",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/000",
+    "created_at": "2026-05-15T20:19:00Z",
+    "engagement_score": 1108.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 0
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-001",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/001",
+    "created_at": "2026-05-16T01:55:00Z",
+    "engagement_score": 485.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 1
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-002",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/002",
+    "created_at": "2026-05-15T05:34:00Z",
+    "engagement_score": 995.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 2
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-003",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/003",
+    "created_at": "2026-05-13T13:47:00Z",
+    "engagement_score": 822.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 3
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-004",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/004",
+    "created_at": "2026-05-15T19:50:00Z",
+    "engagement_score": 777.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 4
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-005",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/005",
+    "created_at": "2026-05-16T02:36:00Z",
+    "engagement_score": 544.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 5
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-006",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/006",
+    "created_at": "2026-05-13T16:42:00Z",
+    "engagement_score": 867.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 6
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-007",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/007",
+    "created_at": "2026-05-12T09:14:00Z",
+    "engagement_score": 1139.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 7
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-008",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/008",
+    "created_at": "2026-05-12T14:15:00Z",
+    "engagement_score": 997.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 8
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-009",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/009",
+    "created_at": "2026-05-15T07:48:00Z",
+    "engagement_score": 608.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 9
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-010",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/010",
+    "created_at": "2026-05-14T23:57:00Z",
+    "engagement_score": 1187.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 10
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-011",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/011",
+    "created_at": "2026-05-12T04:26:00Z",
+    "engagement_score": 125.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 11
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-012",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/012",
+    "created_at": "2026-05-12T03:40:00Z",
+    "engagement_score": 118.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 12
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-013",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/013",
+    "created_at": "2026-05-15T20:23:00Z",
+    "engagement_score": 977.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 13
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-014",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/014",
+    "created_at": "2026-05-13T10:06:00Z",
+    "engagement_score": 1088.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 14
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-015",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/015",
+    "created_at": "2026-05-15T06:57:00Z",
+    "engagement_score": 1041.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 15
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-016",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/016",
+    "created_at": "2026-05-15T16:06:00Z",
+    "engagement_score": 381.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 16
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-017",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/017",
+    "created_at": "2026-05-15T18:22:00Z",
+    "engagement_score": 140.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 17
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-018",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/018",
+    "created_at": "2026-05-12T12:05:00Z",
+    "engagement_score": 482.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 18
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-019",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/019",
+    "created_at": "2026-05-13T23:53:00Z",
+    "engagement_score": 1167.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 19
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-020",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/020",
+    "created_at": "2026-05-14T19:23:00Z",
+    "engagement_score": 82.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 20
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-021",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/021",
+    "created_at": "2026-05-12T19:55:00Z",
+    "engagement_score": 859.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 21
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-022",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/022",
+    "created_at": "2026-05-12T14:23:00Z",
+    "engagement_score": 1158.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 22
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-023",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/023",
+    "created_at": "2026-05-13T08:40:00Z",
+    "engagement_score": 535.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 23
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-024",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/024",
+    "created_at": "2026-05-15T00:18:00Z",
+    "engagement_score": 644.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 24
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-025",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/025",
+    "created_at": "2026-05-14T20:44:00Z",
+    "engagement_score": 811.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 25
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-026",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/026",
+    "created_at": "2026-05-15T10:18:00Z",
+    "engagement_score": 615.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 26
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-027",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/027",
+    "created_at": "2026-05-13T16:40:00Z",
+    "engagement_score": 149.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 27
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-028",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/028",
+    "created_at": "2026-05-16T01:31:00Z",
+    "engagement_score": 1154.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 28
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-029",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/029",
+    "created_at": "2026-05-15T14:56:00Z",
+    "engagement_score": 1102.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 29
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-030",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/030",
+    "created_at": "2026-05-14T23:28:00Z",
+    "engagement_score": 544.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 30
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-031",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/031",
+    "created_at": "2026-05-15T10:38:00Z",
+    "engagement_score": 141.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 31
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-032",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/032",
+    "created_at": "2026-05-14T19:37:00Z",
+    "engagement_score": 584.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 32
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-033",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/033",
+    "created_at": "2026-05-15T06:32:00Z",
+    "engagement_score": 1113.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 33
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-034",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/034",
+    "created_at": "2026-05-12T08:41:00Z",
+    "engagement_score": 1084.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 34
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-035",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/035",
+    "created_at": "2026-05-16T01:18:00Z",
+    "engagement_score": 1136.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 35
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-036",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/036",
+    "created_at": "2026-05-14T12:18:00Z",
+    "engagement_score": 213.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 36
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-037",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/037",
+    "created_at": "2026-05-15T09:44:00Z",
+    "engagement_score": 237.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 37
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-038",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/038",
+    "created_at": "2026-05-15T13:13:00Z",
+    "engagement_score": 1134.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 38
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-039",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/039",
+    "created_at": "2026-05-15T07:43:00Z",
+    "engagement_score": 578.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 39
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-040",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/040",
+    "created_at": "2026-05-12T21:47:00Z",
+    "engagement_score": 703.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 40
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-041",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/041",
+    "created_at": "2026-05-15T00:17:00Z",
+    "engagement_score": 541.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 41
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.914773Z"
+  },
+  {
+    "post_id": "sample-social-042",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/042",
+    "created_at": "2026-05-13T10:29:00Z",
+    "engagement_score": 515.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 42
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-043",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/043",
+    "created_at": "2026-05-15T20:55:00Z",
+    "engagement_score": 868.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 43
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-044",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/044",
+    "created_at": "2026-05-14T15:58:00Z",
+    "engagement_score": 8.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 44
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-045",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/045",
+    "created_at": "2026-05-14T08:11:00Z",
+    "engagement_score": 268.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 45
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-046",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/046",
+    "created_at": "2026-05-12T17:44:00Z",
+    "engagement_score": 331.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 46
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-047",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/047",
+    "created_at": "2026-05-12T04:32:00Z",
+    "engagement_score": 1130.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 47
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-048",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/048",
+    "created_at": "2026-05-12T08:33:00Z",
+    "engagement_score": 1149.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 48
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-049",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/049",
+    "created_at": "2026-05-16T01:53:00Z",
+    "engagement_score": 155.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 49
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-050",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/050",
+    "created_at": "2026-05-12T10:51:00Z",
+    "engagement_score": 1118.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 50
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-051",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/051",
+    "created_at": "2026-05-15T22:07:00Z",
+    "engagement_score": 757.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 51
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-052",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/052",
+    "created_at": "2026-05-13T00:25:00Z",
+    "engagement_score": 304.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 52
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-053",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/053",
+    "created_at": "2026-05-13T19:52:00Z",
+    "engagement_score": 86.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 53
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-054",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/054",
+    "created_at": "2026-05-14T11:37:00Z",
+    "engagement_score": 82.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 54
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-055",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/055",
+    "created_at": "2026-05-14T05:47:00Z",
+    "engagement_score": 512.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 55
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-056",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/056",
+    "created_at": "2026-05-12T13:54:00Z",
+    "engagement_score": 725.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 56
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-057",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/057",
+    "created_at": "2026-05-13T03:05:00Z",
+    "engagement_score": 833.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 57
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-058",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/058",
+    "created_at": "2026-05-12T19:13:00Z",
+    "engagement_score": 317.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 58
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-059",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/059",
+    "created_at": "2026-05-14T20:05:00Z",
+    "engagement_score": 333.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 59
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-060",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/060",
+    "created_at": "2026-05-15T04:34:00Z",
+    "engagement_score": 51.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 60
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-061",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/061",
+    "created_at": "2026-05-15T04:13:00Z",
+    "engagement_score": 681.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 61
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-062",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/062",
+    "created_at": "2026-05-13T22:09:00Z",
+    "engagement_score": 509.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 62
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-063",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/063",
+    "created_at": "2026-05-14T16:50:00Z",
+    "engagement_score": 222.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 63
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-064",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/064",
+    "created_at": "2026-05-14T02:05:00Z",
+    "engagement_score": 80.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 64
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-065",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/065",
+    "created_at": "2026-05-13T14:46:00Z",
+    "engagement_score": 409.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 65
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-066",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/066",
+    "created_at": "2026-05-13T16:38:00Z",
+    "engagement_score": 626.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 66
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-067",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/067",
+    "created_at": "2026-05-14T21:46:00Z",
+    "engagement_score": 49.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 67
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-068",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/068",
+    "created_at": "2026-05-12T14:48:00Z",
+    "engagement_score": 817.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 68
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-069",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/069",
+    "created_at": "2026-05-14T08:43:00Z",
+    "engagement_score": 143.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 69
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-070",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/070",
+    "created_at": "2026-05-14T15:38:00Z",
+    "engagement_score": 1044.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 70
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-071",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/071",
+    "created_at": "2026-05-13T23:17:00Z",
+    "engagement_score": 1099.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 71
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-072",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/072",
+    "created_at": "2026-05-14T08:59:00Z",
+    "engagement_score": 237.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 72
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-073",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/073",
+    "created_at": "2026-05-14T17:49:00Z",
+    "engagement_score": 1190.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 73
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-074",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/074",
+    "created_at": "2026-05-14T17:58:00Z",
+    "engagement_score": 223.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 74
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-075",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/075",
+    "created_at": "2026-05-12T22:33:00Z",
+    "engagement_score": 708.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 75
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-076",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/076",
+    "created_at": "2026-05-12T05:10:00Z",
+    "engagement_score": 643.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 76
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-077",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/077",
+    "created_at": "2026-05-13T19:22:00Z",
+    "engagement_score": 1048.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 77
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-078",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/078",
+    "created_at": "2026-05-15T12:36:00Z",
+    "engagement_score": 1181.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 78
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-079",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/079",
+    "created_at": "2026-05-15T02:44:00Z",
+    "engagement_score": 91.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 79
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-080",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/080",
+    "created_at": "2026-05-12T08:33:00Z",
+    "engagement_score": 4.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 80
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-081",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/081",
+    "created_at": "2026-05-13T08:09:00Z",
+    "engagement_score": 1103.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 81
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-082",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/082",
+    "created_at": "2026-05-12T11:14:00Z",
+    "engagement_score": 404.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 82
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-083",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/083",
+    "created_at": "2026-05-14T04:33:00Z",
+    "engagement_score": 144.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 83
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-084",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/084",
+    "created_at": "2026-05-12T13:39:00Z",
+    "engagement_score": 643.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 84
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-085",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/085",
+    "created_at": "2026-05-12T14:06:00Z",
+    "engagement_score": 256.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 85
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-086",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/086",
+    "created_at": "2026-05-12T06:41:00Z",
+    "engagement_score": 1039.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 86
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-087",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/087",
+    "created_at": "2026-05-14T11:18:00Z",
+    "engagement_score": 837.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 87
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-088",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/088",
+    "created_at": "2026-05-14T09:35:00Z",
+    "engagement_score": 606.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 88
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-089",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/089",
+    "created_at": "2026-05-13T04:52:00Z",
+    "engagement_score": 393.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 89
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-090",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/090",
+    "created_at": "2026-05-13T21:18:00Z",
+    "engagement_score": 777.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 90
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-091",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/091",
+    "created_at": "2026-05-12T12:13:00Z",
+    "engagement_score": 357.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 91
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-092",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/092",
+    "created_at": "2026-05-12T20:24:00Z",
+    "engagement_score": 617.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 92
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-093",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/093",
+    "created_at": "2026-05-13T23:25:00Z",
+    "engagement_score": 1.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 93
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-094",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/094",
+    "created_at": "2026-05-14T12:42:00Z",
+    "engagement_score": 431.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 94
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-095",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/095",
+    "created_at": "2026-05-13T19:10:00Z",
+    "engagement_score": 1188.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 95
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-096",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/096",
+    "created_at": "2026-05-12T21:19:00Z",
+    "engagement_score": 660.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 96
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-097",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/097",
+    "created_at": "2026-05-13T15:32:00Z",
+    "engagement_score": 906.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 97
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-098",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/098",
+    "created_at": "2026-05-12T12:47:00Z",
+    "engagement_score": 1047.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 98
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-099",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/099",
+    "created_at": "2026-05-13T14:10:00Z",
+    "engagement_score": 348.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 99
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-100",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/100",
+    "created_at": "2026-05-12T14:55:00Z",
+    "engagement_score": 582.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 100
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-101",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/101",
+    "created_at": "2026-05-13T09:18:00Z",
+    "engagement_score": 687.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 101
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-102",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/102",
+    "created_at": "2026-05-15T15:08:00Z",
+    "engagement_score": 482.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 102
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-103",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/103",
+    "created_at": "2026-05-12T12:41:00Z",
+    "engagement_score": 461.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 103
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-104",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/104",
+    "created_at": "2026-05-15T01:51:00Z",
+    "engagement_score": 51.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 104
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-105",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/105",
+    "created_at": "2026-05-15T21:45:00Z",
+    "engagement_score": 974.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 105
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-106",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/106",
+    "created_at": "2026-05-12T20:06:00Z",
+    "engagement_score": 150.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 106
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-107",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/107",
+    "created_at": "2026-05-13T16:34:00Z",
+    "engagement_score": 1179.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 107
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-108",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/108",
+    "created_at": "2026-05-15T02:15:00Z",
+    "engagement_score": 787.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 108
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-109",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/109",
+    "created_at": "2026-05-13T11:35:00Z",
+    "engagement_score": 500.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 109
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-110",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/110",
+    "created_at": "2026-05-15T08:19:00Z",
+    "engagement_score": 12.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 110
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-111",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/111",
+    "created_at": "2026-05-12T02:05:00Z",
+    "engagement_score": 219.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 111
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-112",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/112",
+    "created_at": "2026-05-13T20:46:00Z",
+    "engagement_score": 361.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 112
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-113",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/113",
+    "created_at": "2026-05-12T09:27:00Z",
+    "engagement_score": 952.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 113
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-114",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/114",
+    "created_at": "2026-05-15T20:25:00Z",
+    "engagement_score": 511.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 114
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-115",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/115",
+    "created_at": "2026-05-15T11:31:00Z",
+    "engagement_score": 274.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 115
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-116",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/116",
+    "created_at": "2026-05-13T15:18:00Z",
+    "engagement_score": 1088.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 116
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-117",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/117",
+    "created_at": "2026-05-13T03:22:00Z",
+    "engagement_score": 650.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 117
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-118",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/118",
+    "created_at": "2026-05-12T02:32:00Z",
+    "engagement_score": 1034.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 118
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-119",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/119",
+    "created_at": "2026-05-13T20:07:00Z",
+    "engagement_score": 1123.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 119
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-120",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/120",
+    "created_at": "2026-05-13T17:50:00Z",
+    "engagement_score": 973.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 120
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-121",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/121",
+    "created_at": "2026-05-13T17:44:00Z",
+    "engagement_score": 507.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 121
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-122",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/122",
+    "created_at": "2026-05-12T17:43:00Z",
+    "engagement_score": 1068.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 122
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-123",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/123",
+    "created_at": "2026-05-13T12:20:00Z",
+    "engagement_score": 490.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 123
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-124",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/124",
+    "created_at": "2026-05-14T15:32:00Z",
+    "engagement_score": 159.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 124
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-125",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/125",
+    "created_at": "2026-05-12T07:42:00Z",
+    "engagement_score": 481.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 125
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-126",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/126",
+    "created_at": "2026-05-14T16:39:00Z",
+    "engagement_score": 655.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 126
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-127",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/127",
+    "created_at": "2026-05-13T05:55:00Z",
+    "engagement_score": 284.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 127
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-128",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/128",
+    "created_at": "2026-05-15T07:46:00Z",
+    "engagement_score": 785.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 128
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-129",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/129",
+    "created_at": "2026-05-12T10:51:00Z",
+    "engagement_score": 439.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 129
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-130",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/130",
+    "created_at": "2026-05-15T18:34:00Z",
+    "engagement_score": 835.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 130
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-131",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/131",
+    "created_at": "2026-05-14T08:26:00Z",
+    "engagement_score": 955.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 131
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-132",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/132",
+    "created_at": "2026-05-13T21:57:00Z",
+    "engagement_score": 424.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 132
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-133",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/133",
+    "created_at": "2026-05-13T21:36:00Z",
+    "engagement_score": 1197.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 133
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-134",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/134",
+    "created_at": "2026-05-12T09:59:00Z",
+    "engagement_score": 1180.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 134
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-135",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/135",
+    "created_at": "2026-05-14T02:30:00Z",
+    "engagement_score": 13.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 135
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-136",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/136",
+    "created_at": "2026-05-14T05:41:00Z",
+    "engagement_score": 799.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 136
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-137",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/137",
+    "created_at": "2026-05-13T21:26:00Z",
+    "engagement_score": 1119.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 137
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-138",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/138",
+    "created_at": "2026-05-12T21:46:00Z",
+    "engagement_score": 1000.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 138
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-139",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/139",
+    "created_at": "2026-05-14T22:43:00Z",
+    "engagement_score": 893.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 139
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-140",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/140",
+    "created_at": "2026-05-13T12:59:00Z",
+    "engagement_score": 797.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 140
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-141",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/141",
+    "created_at": "2026-05-14T07:18:00Z",
+    "engagement_score": 829.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 141
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-142",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/142",
+    "created_at": "2026-05-12T06:50:00Z",
+    "engagement_score": 958.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 142
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-143",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/143",
+    "created_at": "2026-05-15T10:21:00Z",
+    "engagement_score": 1094.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 143
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-144",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/144",
+    "created_at": "2026-05-15T23:35:00Z",
+    "engagement_score": 1156.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 144
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-145",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/145",
+    "created_at": "2026-05-12T14:59:00Z",
+    "engagement_score": 172.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 145
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-146",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/146",
+    "created_at": "2026-05-12T16:33:00Z",
+    "engagement_score": 278.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 146
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-147",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/147",
+    "created_at": "2026-05-13T15:49:00Z",
+    "engagement_score": 103.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 147
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-148",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/148",
+    "created_at": "2026-05-14T17:36:00Z",
+    "engagement_score": 671.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 148
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-149",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/149",
+    "created_at": "2026-05-14T23:31:00Z",
+    "engagement_score": 670.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 149
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-150",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/150",
+    "created_at": "2026-05-14T07:12:00Z",
+    "engagement_score": 777.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 150
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-151",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/151",
+    "created_at": "2026-05-14T15:12:00Z",
+    "engagement_score": 864.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 151
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-152",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/152",
+    "created_at": "2026-05-14T18:07:00Z",
+    "engagement_score": 168.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 152
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-153",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/153",
+    "created_at": "2026-05-13T14:59:00Z",
+    "engagement_score": 1105.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 153
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-154",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/154",
+    "created_at": "2026-05-15T20:38:00Z",
+    "engagement_score": 460.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 154
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-155",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/155",
+    "created_at": "2026-05-12T15:56:00Z",
+    "engagement_score": 83.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 155
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-156",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/156",
+    "created_at": "2026-05-12T02:59:00Z",
+    "engagement_score": 507.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 156
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-157",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/157",
+    "created_at": "2026-05-15T01:07:00Z",
+    "engagement_score": 42.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 157
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.915773Z"
+  },
+  {
+    "post_id": "sample-social-158",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/158",
+    "created_at": "2026-05-12T19:51:00Z",
+    "engagement_score": 489.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 158
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-159",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/159",
+    "created_at": "2026-05-15T10:30:00Z",
+    "engagement_score": 235.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 159
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-160",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/160",
+    "created_at": "2026-05-13T02:47:00Z",
+    "engagement_score": 953.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 160
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-161",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/161",
+    "created_at": "2026-05-12T09:44:00Z",
+    "engagement_score": 756.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 161
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-162",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/162",
+    "created_at": "2026-05-15T05:22:00Z",
+    "engagement_score": 235.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 162
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-163",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/163",
+    "created_at": "2026-05-15T06:41:00Z",
+    "engagement_score": 222.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 163
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-164",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/164",
+    "created_at": "2026-05-13T00:59:00Z",
+    "engagement_score": 639.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 164
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-165",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/165",
+    "created_at": "2026-05-13T01:17:00Z",
+    "engagement_score": 769.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 165
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-166",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/166",
+    "created_at": "2026-05-14T00:15:00Z",
+    "engagement_score": 407.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 166
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-167",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/167",
+    "created_at": "2026-05-15T17:23:00Z",
+    "engagement_score": 498.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 167
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-168",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/168",
+    "created_at": "2026-05-15T13:16:00Z",
+    "engagement_score": 618.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 168
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-169",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/169",
+    "created_at": "2026-05-12T11:22:00Z",
+    "engagement_score": 248.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 169
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-170",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/170",
+    "created_at": "2026-05-13T02:10:00Z",
+    "engagement_score": 85.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 170
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-171",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/171",
+    "created_at": "2026-05-14T06:26:00Z",
+    "engagement_score": 878.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 171
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-172",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/172",
+    "created_at": "2026-05-12T14:37:00Z",
+    "engagement_score": 142.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 172
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-173",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/173",
+    "created_at": "2026-05-13T10:19:00Z",
+    "engagement_score": 699.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 173
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-174",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/174",
+    "created_at": "2026-05-16T01:06:00Z",
+    "engagement_score": 861.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 174
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-175",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/175",
+    "created_at": "2026-05-13T12:54:00Z",
+    "engagement_score": 888.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 175
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-176",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/176",
+    "created_at": "2026-05-14T04:20:00Z",
+    "engagement_score": 942.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 176
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-177",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/177",
+    "created_at": "2026-05-12T08:51:00Z",
+    "engagement_score": 892.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 177
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-178",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/178",
+    "created_at": "2026-05-15T04:14:00Z",
+    "engagement_score": 1069.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 178
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-179",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/179",
+    "created_at": "2026-05-12T15:43:00Z",
+    "engagement_score": 1103.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 179
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-180",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/180",
+    "created_at": "2026-05-13T13:31:00Z",
+    "engagement_score": 893.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 180
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-181",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/181",
+    "created_at": "2026-05-12T05:23:00Z",
+    "engagement_score": 550.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 181
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-182",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/182",
+    "created_at": "2026-05-14T09:06:00Z",
+    "engagement_score": 503.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 182
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-183",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/183",
+    "created_at": "2026-05-15T15:43:00Z",
+    "engagement_score": 924.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 183
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-184",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/184",
+    "created_at": "2026-05-14T19:12:00Z",
+    "engagement_score": 952.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 184
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-185",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/185",
+    "created_at": "2026-05-13T02:21:00Z",
+    "engagement_score": 777.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 185
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-186",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/186",
+    "created_at": "2026-05-14T07:59:00Z",
+    "engagement_score": 1013.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 186
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-187",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/187",
+    "created_at": "2026-05-14T09:49:00Z",
+    "engagement_score": 999.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 187
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-188",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/188",
+    "created_at": "2026-05-14T23:38:00Z",
+    "engagement_score": 530.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 188
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-189",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/189",
+    "created_at": "2026-05-14T07:43:00Z",
+    "engagement_score": 566.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 189
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-190",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/190",
+    "created_at": "2026-05-13T04:00:00Z",
+    "engagement_score": 1059.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 190
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-191",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/191",
+    "created_at": "2026-05-15T02:55:00Z",
+    "engagement_score": 495.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 191
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-192",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/192",
+    "created_at": "2026-05-12T06:34:00Z",
+    "engagement_score": 1001.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 192
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-193",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/193",
+    "created_at": "2026-05-13T03:12:00Z",
+    "engagement_score": 493.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 193
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-194",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/194",
+    "created_at": "2026-05-12T10:30:00Z",
+    "engagement_score": 1006.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 194
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-195",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/195",
+    "created_at": "2026-05-13T17:10:00Z",
+    "engagement_score": 36.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 195
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-196",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/196",
+    "created_at": "2026-05-15T15:42:00Z",
+    "engagement_score": 454.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 196
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-197",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/197",
+    "created_at": "2026-05-13T23:16:00Z",
+    "engagement_score": 499.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 197
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-198",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/198",
+    "created_at": "2026-05-14T11:18:00Z",
+    "engagement_score": 1192.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 198
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-199",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/199",
+    "created_at": "2026-05-14T03:30:00Z",
+    "engagement_score": 1134.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 199
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-200",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/200",
+    "created_at": "2026-05-13T07:38:00Z",
+    "engagement_score": 872.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 200
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-201",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/201",
+    "created_at": "2026-05-12T03:25:00Z",
+    "engagement_score": 678.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 201
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-202",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/202",
+    "created_at": "2026-05-14T05:16:00Z",
+    "engagement_score": 930.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 202
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-203",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/203",
+    "created_at": "2026-05-14T16:41:00Z",
+    "engagement_score": 515.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 203
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-204",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/204",
+    "created_at": "2026-05-14T21:53:00Z",
+    "engagement_score": 395.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 204
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-205",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/205",
+    "created_at": "2026-05-14T10:53:00Z",
+    "engagement_score": 1098.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 205
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-206",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/206",
+    "created_at": "2026-05-12T10:49:00Z",
+    "engagement_score": 393.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 206
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-207",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/207",
+    "created_at": "2026-05-14T23:13:00Z",
+    "engagement_score": 992.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 207
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-208",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/208",
+    "created_at": "2026-05-14T15:14:00Z",
+    "engagement_score": 1075.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 208
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-209",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/209",
+    "created_at": "2026-05-12T22:42:00Z",
+    "engagement_score": 206.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 209
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-210",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/210",
+    "created_at": "2026-05-15T02:42:00Z",
+    "engagement_score": 466.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 210
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-211",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/211",
+    "created_at": "2026-05-14T04:49:00Z",
+    "engagement_score": 620.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 211
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-212",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/212",
+    "created_at": "2026-05-16T01:15:00Z",
+    "engagement_score": 1094.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 212
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-213",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/213",
+    "created_at": "2026-05-15T10:43:00Z",
+    "engagement_score": 94.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 213
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-214",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/214",
+    "created_at": "2026-05-15T20:25:00Z",
+    "engagement_score": 599.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 214
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-215",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/215",
+    "created_at": "2026-05-12T09:52:00Z",
+    "engagement_score": 1006.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 215
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-216",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/216",
+    "created_at": "2026-05-15T13:05:00Z",
+    "engagement_score": 26.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 216
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-217",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/217",
+    "created_at": "2026-05-13T01:42:00Z",
+    "engagement_score": 962.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 217
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-218",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/218",
+    "created_at": "2026-05-13T13:32:00Z",
+    "engagement_score": 698.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 218
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-219",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/219",
+    "created_at": "2026-05-15T03:57:00Z",
+    "engagement_score": 518.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 219
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-220",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/220",
+    "created_at": "2026-05-13T13:53:00Z",
+    "engagement_score": 134.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 220
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-221",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/221",
+    "created_at": "2026-05-13T23:29:00Z",
+    "engagement_score": 152.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 221
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-222",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/222",
+    "created_at": "2026-05-13T01:20:00Z",
+    "engagement_score": 110.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 222
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-223",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/223",
+    "created_at": "2026-05-15T07:51:00Z",
+    "engagement_score": 1153.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 223
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-224",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/224",
+    "created_at": "2026-05-14T12:55:00Z",
+    "engagement_score": 509.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 224
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-225",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/225",
+    "created_at": "2026-05-15T11:25:00Z",
+    "engagement_score": 853.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 225
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-226",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/226",
+    "created_at": "2026-05-12T21:22:00Z",
+    "engagement_score": 463.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 226
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-227",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/227",
+    "created_at": "2026-05-13T08:36:00Z",
+    "engagement_score": 923.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 227
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-228",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/228",
+    "created_at": "2026-05-13T18:41:00Z",
+    "engagement_score": 879.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 228
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-229",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/229",
+    "created_at": "2026-05-14T11:24:00Z",
+    "engagement_score": 124.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 229
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-230",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/230",
+    "created_at": "2026-05-12T20:13:00Z",
+    "engagement_score": 204.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 230
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-231",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/231",
+    "created_at": "2026-05-15T00:20:00Z",
+    "engagement_score": 433.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 231
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-232",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/232",
+    "created_at": "2026-05-14T17:18:00Z",
+    "engagement_score": 167.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 232
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-233",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/233",
+    "created_at": "2026-05-15T06:45:00Z",
+    "engagement_score": 356.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 233
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-234",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/234",
+    "created_at": "2026-05-13T04:56:00Z",
+    "engagement_score": 321.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 234
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-235",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/235",
+    "created_at": "2026-05-16T02:34:00Z",
+    "engagement_score": 923.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 235
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-236",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/236",
+    "created_at": "2026-05-12T10:22:00Z",
+    "engagement_score": 963.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 236
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-237",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/237",
+    "created_at": "2026-05-14T13:58:00Z",
+    "engagement_score": 475.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 237
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-238",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/238",
+    "created_at": "2026-05-14T14:15:00Z",
+    "engagement_score": 580.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 238
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-239",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/239",
+    "created_at": "2026-05-12T09:05:00Z",
+    "engagement_score": 930.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 239
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-240",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/240",
+    "created_at": "2026-05-15T17:17:00Z",
+    "engagement_score": 479.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 240
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-241",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/241",
+    "created_at": "2026-05-14T17:10:00Z",
+    "engagement_score": 406.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 241
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-242",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/242",
+    "created_at": "2026-05-13T20:53:00Z",
+    "engagement_score": 1116.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 242
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-243",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/243",
+    "created_at": "2026-05-14T22:19:00Z",
+    "engagement_score": 306.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 243
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-244",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/244",
+    "created_at": "2026-05-14T16:08:00Z",
+    "engagement_score": 292.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 244
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-245",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/245",
+    "created_at": "2026-05-15T17:57:00Z",
+    "engagement_score": 340.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 245
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-246",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/246",
+    "created_at": "2026-05-14T11:22:00Z",
+    "engagement_score": 1166.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 246
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-247",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/247",
+    "created_at": "2026-05-14T14:32:00Z",
+    "engagement_score": 255.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 247
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-248",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/248",
+    "created_at": "2026-05-13T15:16:00Z",
+    "engagement_score": 623.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 248
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-249",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/249",
+    "created_at": "2026-05-12T09:35:00Z",
+    "engagement_score": 558.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 249
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-250",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/250",
+    "created_at": "2026-05-13T10:26:00Z",
+    "engagement_score": 1012.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 250
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-251",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/251",
+    "created_at": "2026-05-13T18:55:00Z",
+    "engagement_score": 82.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 251
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-252",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/252",
+    "created_at": "2026-05-13T19:13:00Z",
+    "engagement_score": 661.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 252
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-253",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/253",
+    "created_at": "2026-05-12T21:44:00Z",
+    "engagement_score": 53.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 253
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-254",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/254",
+    "created_at": "2026-05-15T15:46:00Z",
+    "engagement_score": 1179.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 254
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-255",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/255",
+    "created_at": "2026-05-12T23:59:00Z",
+    "engagement_score": 552.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 255
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-256",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/256",
+    "created_at": "2026-05-13T01:58:00Z",
+    "engagement_score": 359.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 256
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-257",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/257",
+    "created_at": "2026-05-13T14:27:00Z",
+    "engagement_score": 906.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 257
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-258",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/258",
+    "created_at": "2026-05-14T15:49:00Z",
+    "engagement_score": 1199.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 258
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-259",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/259",
+    "created_at": "2026-05-13T19:20:00Z",
+    "engagement_score": 1008.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 259
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-260",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/260",
+    "created_at": "2026-05-15T15:30:00Z",
+    "engagement_score": 713.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 260
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-261",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/261",
+    "created_at": "2026-05-13T22:39:00Z",
+    "engagement_score": 658.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 261
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-262",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/262",
+    "created_at": "2026-05-12T13:54:00Z",
+    "engagement_score": 330.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 262
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-263",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_4",
+    "url": "https://social.example.com/posts/263",
+    "created_at": "2026-05-14T08:34:00Z",
+    "engagement_score": 1015.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 263
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-264",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_5",
+    "url": "https://social.example.com/posts/264",
+    "created_at": "2026-05-14T14:18:00Z",
+    "engagement_score": 821.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 264
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-265",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_6",
+    "url": "https://social.example.com/posts/265",
+    "created_at": "2026-05-13T04:58:00Z",
+    "engagement_score": 932.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 265
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-266",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_7",
+    "url": "https://social.example.com/posts/266",
+    "created_at": "2026-05-15T15:40:00Z",
+    "engagement_score": 517.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 266
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-267",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_8",
+    "url": "https://social.example.com/posts/267",
+    "created_at": "2026-05-14T09:53:00Z",
+    "engagement_score": 828.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 267
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-268",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_9",
+    "url": "https://social.example.com/posts/268",
+    "created_at": "2026-05-13T09:08:00Z",
+    "engagement_score": 3.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 268
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-269",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_10",
+    "url": "https://social.example.com/posts/269",
+    "created_at": "2026-05-12T14:05:00Z",
+    "engagement_score": 1112.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 269
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-270",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_11",
+    "url": "https://social.example.com/posts/270",
+    "created_at": "2026-05-13T15:34:00Z",
+    "engagement_score": 112.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 270
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-271",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_12",
+    "url": "https://social.example.com/posts/271",
+    "created_at": "2026-05-15T02:27:00Z",
+    "engagement_score": 741.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 271
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-272",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_13",
+    "url": "https://social.example.com/posts/272",
+    "created_at": "2026-05-12T19:12:00Z",
+    "engagement_score": 1021.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 272
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-273",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_14",
+    "url": "https://social.example.com/posts/273",
+    "created_at": "2026-05-12T18:32:00Z",
+    "engagement_score": 106.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 273
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-274",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_15",
+    "url": "https://social.example.com/posts/274",
+    "created_at": "2026-05-15T00:43:00Z",
+    "engagement_score": 1125.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 274
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-275",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_16",
+    "url": "https://social.example.com/posts/275",
+    "created_at": "2026-05-15T10:42:00Z",
+    "engagement_score": 898.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 275
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-276",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_17",
+    "url": "https://social.example.com/posts/276",
+    "created_at": "2026-05-12T09:29:00Z",
+    "engagement_score": 249.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 276
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-277",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_18",
+    "url": "https://social.example.com/posts/277",
+    "created_at": "2026-05-15T23:20:00Z",
+    "engagement_score": 491.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 277
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-278",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_19",
+    "url": "https://social.example.com/posts/278",
+    "created_at": "2026-05-12T08:50:00Z",
+    "engagement_score": 637.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 278
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-279",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_20",
+    "url": "https://social.example.com/posts/279",
+    "created_at": "2026-05-13T05:00:00Z",
+    "engagement_score": 1132.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 279
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-280",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_21",
+    "url": "https://social.example.com/posts/280",
+    "created_at": "2026-05-13T22:55:00Z",
+    "engagement_score": 461.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 280
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-281",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_22",
+    "url": "https://social.example.com/posts/281",
+    "created_at": "2026-05-15T12:31:00Z",
+    "engagement_score": 241.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 281
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-282",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_23",
+    "url": "https://social.example.com/posts/282",
+    "created_at": "2026-05-12T16:07:00Z",
+    "engagement_score": 316.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 282
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-283",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_24",
+    "url": "https://social.example.com/posts/283",
+    "created_at": "2026-05-13T11:15:00Z",
+    "engagement_score": 598.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 283
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-284",
+    "platform": "sample",
+    "text": "Developers are watching the Apple chip story closely after the latest Apple update #Applechip",
+    "author": "apple_watcher_25",
+    "url": "https://social.example.com/posts/284",
+    "created_at": "2026-05-13T09:15:00Z",
+    "engagement_score": 560.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applechip"
+    ],
+    "keywords": [
+      "Apple chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 284
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-285",
+    "platform": "sample",
+    "text": "The market reaction to M-series chip news feels surprisingly optimistic #M-serieschip",
+    "author": "apple_watcher_26",
+    "url": "https://social.example.com/posts/285",
+    "created_at": "2026-05-13T21:07:00Z",
+    "engagement_score": 989.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "M-serieschip"
+    ],
+    "keywords": [
+      "M-series chip",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 285
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-286",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Apple earnings #Appleearnings",
+    "author": "apple_watcher_27",
+    "url": "https://social.example.com/posts/286",
+    "created_at": "2026-05-13T14:45:00Z",
+    "engagement_score": 936.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Appleearnings"
+    ],
+    "keywords": [
+      "Apple earnings",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 286
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-287",
+    "platform": "sample",
+    "text": "Apple's Apple supply chain strategy keeps showing up across tech communities #Applesupplychain",
+    "author": "apple_watcher_28",
+    "url": "https://social.example.com/posts/287",
+    "created_at": "2026-05-13T04:51:00Z",
+    "engagement_score": 786.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Applesupplychain"
+    ],
+    "keywords": [
+      "Apple supply chain",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 287
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-288",
+    "platform": "sample",
+    "text": "People are talking about Apple again after today's Apple headlines #Apple",
+    "author": "apple_watcher_29",
+    "url": "https://social.example.com/posts/288",
+    "created_at": "2026-05-15T02:22:00Z",
+    "engagement_score": 1041.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "Apple"
+    ],
+    "keywords": [
+      "Apple",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 288
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-289",
+    "platform": "sample",
+    "text": "The iPhone rumor cycle is wild, but the supply chain signal looks strong #iPhone",
+    "author": "apple_watcher_30",
+    "url": "https://social.example.com/posts/289",
+    "created_at": "2026-05-12T03:52:00Z",
+    "engagement_score": 143.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone"
+    ],
+    "keywords": [
+      "iPhone",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 289
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-290",
+    "platform": "sample",
+    "text": "Apple fans seem split on iPhone 17; sentiment is not as simple as the headlines suggest #iPhone17",
+    "author": "apple_watcher_31",
+    "url": "https://social.example.com/posts/290",
+    "created_at": "2026-05-14T15:11:00Z",
+    "engagement_score": 850.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPhone17"
+    ],
+    "keywords": [
+      "iPhone 17",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 290
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-291",
+    "platform": "sample",
+    "text": "If MacBook gets this upgrade, social buzz will explode #MacBook",
+    "author": "apple_watcher_32",
+    "url": "https://social.example.com/posts/291",
+    "created_at": "2026-05-14T07:10:00Z",
+    "engagement_score": 1040.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "MacBook"
+    ],
+    "keywords": [
+      "MacBook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 291
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-292",
+    "platform": "sample",
+    "text": "Developers are watching the iPad story closely after the latest Apple update #iPad",
+    "author": "apple_watcher_33",
+    "url": "https://social.example.com/posts/292",
+    "created_at": "2026-05-14T16:08:00Z",
+    "engagement_score": 6.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iPad"
+    ],
+    "keywords": [
+      "iPad",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 292
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-293",
+    "platform": "sample",
+    "text": "The market reaction to Apple Watch news feels surprisingly optimistic #AppleWatch",
+    "author": "apple_watcher_34",
+    "url": "https://social.example.com/posts/293",
+    "created_at": "2026-05-14T14:14:00Z",
+    "engagement_score": 612.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleWatch"
+    ],
+    "keywords": [
+      "Apple Watch",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 293
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-294",
+    "platform": "sample",
+    "text": "Some users still worry about bugs and delays around Vision Pro #VisionPro",
+    "author": "apple_watcher_35",
+    "url": "https://social.example.com/posts/294",
+    "created_at": "2026-05-12T23:23:00Z",
+    "engagement_score": 1003.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "VisionPro"
+    ],
+    "keywords": [
+      "Vision Pro",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 294
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-295",
+    "platform": "sample",
+    "text": "Apple's iOS strategy keeps showing up across tech communities #iOS",
+    "author": "apple_watcher_36",
+    "url": "https://social.example.com/posts/295",
+    "created_at": "2026-05-15T07:32:00Z",
+    "engagement_score": 1104.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "iOS"
+    ],
+    "keywords": [
+      "iOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 295
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-296",
+    "platform": "sample",
+    "text": "People are talking about macOS again after today's Apple headlines #macOS",
+    "author": "apple_watcher_0",
+    "url": "https://social.example.com/posts/296",
+    "created_at": "2026-05-13T13:38:00Z",
+    "engagement_score": 681.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "macOS"
+    ],
+    "keywords": [
+      "macOS",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 296
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-297",
+    "platform": "sample",
+    "text": "The App Store rumor cycle is wild, but the supply chain signal looks strong #AppStore",
+    "author": "apple_watcher_1",
+    "url": "https://social.example.com/posts/297",
+    "created_at": "2026-05-13T04:12:00Z",
+    "engagement_score": 1113.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppStore"
+    ],
+    "keywords": [
+      "App Store",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 297
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.916773Z"
+  },
+  {
+    "post_id": "sample-social-298",
+    "platform": "sample",
+    "text": "Apple fans seem split on Tim Cook; sentiment is not as simple as the headlines suggest #TimCook",
+    "author": "apple_watcher_2",
+    "url": "https://social.example.com/posts/298",
+    "created_at": "2026-05-14T02:31:00Z",
+    "engagement_score": 660.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "TimCook"
+    ],
+    "keywords": [
+      "Tim Cook",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 298
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.917874Z"
+  },
+  {
+    "post_id": "sample-social-299",
+    "platform": "sample",
+    "text": "If Apple Intelligence gets this upgrade, social buzz will explode #AppleIntelligence",
+    "author": "apple_watcher_3",
+    "url": "https://social.example.com/posts/299",
+    "created_at": "2026-05-15T02:16:00Z",
+    "engagement_score": 490.0,
+    "sentiment_score": null,
+    "hashtags": [
+      "AppleIntelligence"
+    ],
+    "keywords": [
+      "Apple Intelligence",
+      "Apple"
+    ],
+    "raw": {
+      "sample_index": 299
+    },
+    "ingestion_ts": "2026-05-16T03:24:57.917874Z"
+  }
+]

@@ -1,0 +1,16 @@
+name: apple_news_intelligence
+version: "1.0"
+config-version: 2
+
+profile: apple_news_intelligence
+
+model-paths: ["models"]
+
+models:
+  apple_news_intelligence:
+    bronze:
+      +materialized: view
+    silver:
+      +materialized: table
+    gold:
+      +materialized: table

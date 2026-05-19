@@ -1,0 +1,102 @@
+[
+  {
+    "name": "The Verge",
+    "country": "United States",
+    "domain": "theverge.com"
+  },
+  {
+    "name": "Bloomberg Technology",
+    "country": "United States",
+    "domain": "bloomberg.com"
+  },
+  {
+    "name": "Reuters Tech",
+    "country": "United Kingdom",
+    "domain": "reuters.com"
+  },
+  {
+    "name": "CNBC Tech",
+    "country": "United States",
+    "domain": "cnbc.com"
+  },
+  {
+    "name": "MacRumors",
+    "country": "United States",
+    "domain": "macrumors.com"
+  },
+  {
+    "name": "9to5Mac",
+    "country": "United States",
+    "domain": "9to5mac.com"
+  },
+  {
+    "name": "TechCrunch",
+    "country": "United States",
+    "domain": "techcrunch.com"
+  },
+  {
+    "name": "Engadget",
+    "country": "United States",
+    "domain": "engadget.com"
+  },
+  {
+    "name": "Financial Times Tech",
+    "country": "United Kingdom",
+    "domain": "ft.com"
+  },
+  {
+    "name": "Nikkei Asia Tech",
+    "country": "Japan",
+    "domain": "asia.nikkei.com"
+  },
+  {
+    "name": "The Information",
+    "country": "United States",
+    "domain": "theinformation.com"
+  },
+  {
+    "name": "Wall Street Journal Tech",
+    "country": "United States",
+    "domain": "wsj.com"
+  },
+  {
+    "name": "Wired",
+    "country": "United States",
+    "domain": "wired.com"
+  },
+  {
+    "name": "Ars Technica",
+    "country": "United States",
+    "domain": "arstechnica.com"
+  },
+  {
+    "name": "ZDNet",
+    "country": "United States",
+    "domain": "zdnet.com"
+  },
+  {
+    "name": "CNET",
+    "country": "United States",
+    "domain": "cnet.com"
+  },
+  {
+    "name": "The Guardian Tech",
+    "country": "United Kingdom",
+    "domain": "theguardian.com"
+  },
+  {
+    "name": "India Today Tech",
+    "country": "India",
+    "domain": "indiatoday.in"
+  },
+  {
+    "name": "South China Morning Post Tech",
+    "country": "China",
+    "domain": "scmp.com"
+  },
+  {
+    "name": "Heise Online",
+    "country": "Germany",
+    "domain": "heise.de"
+  }
+]
